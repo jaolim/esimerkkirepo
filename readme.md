@@ -1,0 +1,1 @@
+Example repository to prove familiarity with Git and GitHub for the course Software project 1
